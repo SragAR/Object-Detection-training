@@ -1,14 +1,23 @@
 #Recommended Directory Structure for Training and Evaluation
 
 +data
+
   -label_map file
+
   -train TFRecord file
+
   -eval TFRecord file
+  
 +models
+
   +model
+  
     -pipeline config file
+    
     +train
+    
     +eval
+    
 
 #Set pipeline config file
 
