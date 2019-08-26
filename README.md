@@ -12,11 +12,11 @@
 
   +model
   
-    -pipeline config file
+   -pipeline config file
     
-    +train
+   +train
     
-    +eval
+   +eval
     
 
 #Set pipeline config file
